@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://REPLACE-CU-DOMENIUL-TAU.github.io/sitemap.xml
